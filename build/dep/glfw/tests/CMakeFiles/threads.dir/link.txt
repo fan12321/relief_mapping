@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/threads.dir/threads.c.o CMakeFiles/threads.dir/__/deps/tinycthread.c.o CMakeFiles/threads.dir/__/deps/glad_gl.c.o -o threads  -Wl,-rpath,/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glfw/src ../src/libglfw.so.3.3 -lm -lpthread -lrt 

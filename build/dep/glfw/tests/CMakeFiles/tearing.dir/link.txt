@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/tearing.dir/tearing.c.o CMakeFiles/tearing.dir/__/deps/glad_gl.c.o -o tearing  -Wl,-rpath,/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glfw/src ../src/libglfw.so.3.3 -lm 

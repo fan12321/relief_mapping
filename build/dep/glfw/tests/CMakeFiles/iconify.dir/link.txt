@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/iconify.dir/iconify.c.o CMakeFiles/iconify.dir/__/deps/getopt.c.o CMakeFiles/iconify.dir/__/deps/glad_gl.c.o -o iconify  -Wl,-rpath,/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glfw/src ../src/libglfw.so.3.3 -lm 

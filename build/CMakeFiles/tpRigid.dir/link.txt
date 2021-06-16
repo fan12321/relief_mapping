@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/tpRigid.dir/src/main.cpp.o -o tpRigid  -Wl,-rpath,/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/assimp/bin:/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glad:/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glfw/src dep/assimp/bin/libassimp.so.5.0.1 dep/glad/libglad.so dep/glfw/src/libglfw.so.3.3 -ldl -lz -lrt 

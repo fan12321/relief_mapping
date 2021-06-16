@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/clipboard.dir/clipboard.c.o CMakeFiles/clipboard.dir/__/deps/getopt.c.o CMakeFiles/clipboard.dir/__/deps/glad_gl.c.o -o clipboard  -Wl,-rpath,/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glfw/src ../src/libglfw.so.3.3 -lm 

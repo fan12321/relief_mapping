@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/wave.dir/wave.c.o CMakeFiles/wave.dir/__/deps/glad_gl.c.o -o wave  -Wl,-rpath,/home/chenchifan/Desktop/110spring/IG3D/mapping/build/dep/glfw/src ../src/libglfw.so.3.3 -lm 
